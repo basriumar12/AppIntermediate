@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.blogbasbas.promenengah1.activity.AudioManagerActivity">
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_audio"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        tools:context=".AudioActivity">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ring"
+
+            android:id="@+id/btnring"
+            />
+        <Button
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="vibrate"
+            android:layout_below="@id/btnring"
+            android:id="@+id/btnvibrate"
+
+            />
+        <Button
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="silent"
+            android:id="@+id/btnsilent"
+            android:layout_below="@+id/btnvibrate"
+            />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

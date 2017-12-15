@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Crud Login</string>
+    <string name="loading">loading data</string>
+</resources>

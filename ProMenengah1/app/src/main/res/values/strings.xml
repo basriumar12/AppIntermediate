@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pro Menengah 1</string>
+    <string name="bl">Bluetooth</string>
+    <string name="tl">telephone</string>
+    <string name="sms">sms</string>
+    <string name="wifi">wifi</string>
+    <string name="browser">browser</string>
+    <string name="audiorec">audio recorder</string>
+    <string name="audiomanager">audio manager</string>
+    <string name="camera">camera</string>
+    <string name="email">email</string>
+    <string name="tts">tanda tangan</string>
+    <string name="call">call</string>
+    <string name="dialcall">dial call</string>
+    <string name="listContact">list contact</string>
+    <string name="goToBrowsewr">go to browser</string>
+    <string name="on">on</string>
+    <string name="of">of</string>
+    <string name="list">list</string>
+    <string name="visible">visible</string>
+</resources>

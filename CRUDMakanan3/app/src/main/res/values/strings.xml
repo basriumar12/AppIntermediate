@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUDMakanan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="masukkanjengkel">masukkan jenis kelamin anda</string>
+    <string name="loading">loadingg</string>
+
+</resources>

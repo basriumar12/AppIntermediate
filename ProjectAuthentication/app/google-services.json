@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "848026688776",
+    "firebase_url": "https://project-authentication-af7e4.firebaseio.com",
+    "project_id": "project-authentication-af7e4",
+    "storage_bucket": "project-authentication-af7e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848026688776:android:dec9d1436381b65d",
+        "android_client_info": {
+          "package_name": "com.blogbasbas.projectauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848026688776-pm8jj1rju0cbgqnjqk3jfrashc4mg50v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-s81RyHxjyt8SmcKJbh3Ow84g8qFdu6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

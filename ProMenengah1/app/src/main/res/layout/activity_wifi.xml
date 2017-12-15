@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.blogbasbas.promenengah1.activity.Wifi">
+   <ImageView
+       android:src="@drawable/imgwifi"
+       android:layout_width="match_parent"
+       android:layout_height="120dp" />
+    <Switch
+        android:text="Tur on / of wifi"
+        android:background="#fff"
+        android:id="@+id/switch1"
+        android:textOn="On"
+        android:checked="false"
+        android:textOff="Off"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
